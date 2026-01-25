@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Ciao%2C+I'm+William+%F0%9F%91%8B;Welcome+to+my+digital+playground!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=600&height=60&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## About Me
 
 <table>
 <tr>
@@ -55,17 +55,18 @@
 ```swift
 struct Developer {
     let name = "William"
-    let role = "Senior iOS Engineer"
-    let languages = ["Swift", "Objective-C", "JavaScript"]
-    let locations = ["🇮🇹 Italy", "🇪🇪 Tallinn", "🇬🇧 London", "🇳🇱 Amsterdam"]
+    let role = "Software Engineer & Entrepreneur"
+    let expertise = ["Mobile", "AI/ML", "Cybersecurity", "Full Stack"]
+    let languages = ["Swift", "Kotlin", "Python", "TypeScript", "JavaScript", "Java"]
+    let locations = ["Italy", "Tallinn", "London", "Amsterdam"]
     
     var currentFocus: String {
-        "Building HolidaysTrip ✈️"
+        "Building HolidaysTrip"
     }
     
     func sayHello() -> String {
         "Ciao! Passionate about crafting
-         beautiful mobile experiences"
+         beautiful digital experiences"
     }
 }
 ```
@@ -79,21 +80,21 @@ struct Developer {
 </tr>
 </table>
 
-### 🎯 What I'm Up To
+### What I'm Up To
 
-- 🔭 Building **HolidaysTrip** - AI-powered travel planning app
-- 🌍 Localizing apps for **global markets** (Swedish, Norwegian, Finnish, Portuguese, Arabic, Hindi...)
-- 💡 Exploring **AI integration** in mobile applications
-- 🚀 Always pushing the boundaries of **SwiftUI**
+- Building **HolidaysTrip** - AI-powered travel planning app
+- Localizing apps for **global markets** (Swedish, Norwegian, Finnish, Portuguese, Arabic, Hindi...)
+- Exploring **AI integration** in mobile applications
+- Always pushing the boundaries of **SwiftUI**
 
 ---
 
 <!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 📱 Mobile Development
+### Mobile Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -106,7 +107,7 @@ struct Developer {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🤖 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -118,7 +119,7 @@ struct Developer {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 🔐 Cybersecurity
+### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -129,7 +130,7 @@ struct Developer {
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### 🛠 Backend & APIs
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -138,7 +139,7 @@ struct Developer {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄 Database & Cloud
+### Database & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -153,7 +154,7 @@ struct Developer {
 ![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -161,7 +162,7 @@ struct Developer {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🧰 Tools & Design
+### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -177,11 +178,11 @@ struct Developer {
 ---
 
 <!-- AWARDS & RECOGNITION -->
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> Awards & Recognition
+## Awards & Recognition
 
 <div align="center">
 
-### 🏆 HackerNoon Startup of the Year - Amsterdam Winner
+### HackerNoon Startup of the Year - Amsterdam Winner
 
 <a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
   <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=127,fit=crop,trim=51.65217391304348;292.695652173913;0;275.4782608695652/AQEZL32RabUMXEnn/nrc-linkedin-1-Awv9NMngXZUNZRlD.png" width="280" alt="HackerNoon Startup of the Year"/>
@@ -195,15 +196,15 @@ struct Developer {
 
 <br/><br/>
 
-[![HackerNoon](https://img.shields.io/badge/🏆_HackerNoon-Startup_of_the_Year_Winner-00FF00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
-[![Amsterdam](https://img.shields.io/badge/📍_Amsterdam-Winner-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-Startup_of_the_Year_Winner-00FF00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
+[![Amsterdam](https://img.shields.io/badge/Amsterdam-Winner-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
 
 </div>
 
 ---
 
 <!-- PRESS COVERAGE -->
-## 📰 Featured In
+## Featured In
 
 <div align="center">
 
@@ -216,7 +217,7 @@ struct Developer {
 </td>
 <td align="center" width="33%">
 <a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/digital-jurnal-AE0r86M77osgMo2G.png" width="200" alt="Digital Journal"/>
+  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" width="200" alt="Digital Journal"/>
 </a>
 </td>
 <td align="center" width="33%">
@@ -229,14 +230,14 @@ struct Developer {
 
 <br/>
 
-*NRC Company & BookEasy featured in major tech and business publications* 🚀
+*NRC Company & BookEasy featured in major tech and business publications*
 
 </div>
 
 ---
 
 <!-- CERTIFICATIONS -->
-## 🎓 Certifications
+## Certifications
 
 <div align="center">
 
@@ -244,7 +245,7 @@ struct Developer {
 <tr>
 <td align="center" width="50%">
 
-### 🏅 IBM Certifications
+### IBM Certifications
 
 <a href="#">
   <img src="https://media.licdn.com/dms/image/v2/D5622AQE3skeAoVPhjg/feedshare-shrink_800/B56Zpx9CIgG4Ag-/0/1762848431690?e=1770854400&v=beta&t=nZ5CNzvxMCwxLsqvdyjsrVsoQ9chgFrDTHhCXkMpbtg" width="400" alt="IBM Certifications"/>
@@ -253,7 +254,7 @@ struct Developer {
 </td>
 <td align="center" width="50%">
 
-### 🎖️ Badges & Skills
+### Badges & Skills
 
 ![IBM](https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -262,7 +263,7 @@ struct Developer {
 <br/>
 
 *Continuously learning and evolving*
-*in the ever-changing tech landscape* 🚀
+*in the ever-changing tech landscape*
 
 </td>
 </tr>
@@ -271,59 +272,6 @@ struct Developer {
 </div>
 
 ---
-
-<!-- CONNECT SECTION -->
-## 🤝 Let's Connect!
-
-<div align="center">
-
-<p>
-  <i>I'm always excited to collaborate on innovative iOS projects, discuss mobile development, or just chat about the latest in tech!</i>
-</p>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/wlmzz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/wlmzz/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-### 🌐 My Websites
-
-<a href="https://www.wlmzz.dev">
-  <img src="https://img.shields.io/badge/🚀_wlmzz.dev-Personal_Portfolio-667eea?style=for-the-badge" alt="Portfolio"/>
-</a>
-<br/><br/>
-<a href="https://www.nrc.company">
-  <img src="https://img.shields.io/badge/🏢_NRC.company-Business-000000?style=for-the-badge" alt="NRC Company"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.nrc.capital">
-  <img src="https://img.shields.io/badge/💰_NRC.capital-Investments-764ba2?style=for-the-badge" alt="NRC Capital"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ☕ Support My Work
-
-<a href="https://buy.stripe.com/dRmbJ2a8c2V695M0wo6Zy08">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" alt="Buy Me A Coffee"/>
-</a>
-
-<br/>
-
-<p><i>If you like my work, consider buying me a coffee! ❤️</i></p>
-
-</div>
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
