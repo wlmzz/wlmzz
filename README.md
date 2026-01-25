@@ -264,5 +264,13 @@ struct Developer {
 
 ---
 
+<div align="center">
+
+*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
+
+**— Gene Spafford**
+
+</div>
+
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
