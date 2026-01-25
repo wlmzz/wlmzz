@@ -189,6 +189,12 @@ struct Developer {
 
 <br/><br/>
 
+<a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1068,fit=crop,trim=0;53.58064516129032;0;53.58064516129032/AQEZL32RabUMXEnn/winner-card-1-dJob3XBP3aU9ggpw.png" width="250" alt="HackerNoon Startup of the Year Winner - Amsterdam"/>
+</a>
+
+<br/><br/>
+
 [![HackerNoon](https://img.shields.io/badge/🏆_HackerNoon-Startup_of_the_Year_Winner-00FF00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
 [![Amsterdam](https://img.shields.io/badge/📍_Amsterdam-Winner-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
 
@@ -205,7 +211,7 @@ struct Developer {
 <tr>
 <td align="center" width="33%">
 <a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://newlife.rehab/media" width="200" alt="Benzinga"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" width="200" alt="Benzinga"/>
 </a>
 </td>
 <td align="center" width="33%">
