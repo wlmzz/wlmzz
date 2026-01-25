@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- ANIMATED NAME -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=667eea&text=WILLIAM&height=100&fontSize=70&fontAlignY=60&desc=Senior%20iOS%20Engineer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Building%20the%20Future&descSize=16&descAlignY=85&animation=twinkling" width="100%"/>
-
-<br/>
-
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Ciao%2C+I'm+William+%F0%9F%91%8B;Welcome+to+my+digital+playground!" alt="Typing SVG" />
@@ -45,44 +40,46 @@
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=wlmzz&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/wlmzz?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
-</p>
-
 </div>
 
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="50%">
 
 ```swift
 struct Developer {
     let name = "William"
     let role = "Senior iOS Engineer"
     let languages = ["Swift", "Objective-C", "JavaScript"]
-    let location = "Italy 🇮🇹"
+    let locations = ["🇮🇹 Italy", "🇪🇪 Tallinn", "🇬🇧 London"]
     
     var currentFocus: String {
         "Building HolidaysTrip ✈️"
     }
     
     func sayHello() -> String {
-        "Ciao! Passionate about crafting 
+        "Ciao! Passionate about crafting
          beautiful mobile experiences"
     }
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ### 🎯 What I'm Up To
 
 - 🔭 Building **HolidaysTrip** - AI-powered travel planning app
 - 🌍 Localizing apps for **global markets** (Swedish, Norwegian, Finnish, Portuguese, Arabic, Hindi...)
-- 🍕 Developed **KINO Bar Bistrot** - Complete restaurant ordering system
 - 💡 Exploring **AI integration** in mobile applications
 - 🚀 Always pushing the boundaries of **SwiftUI**
 
@@ -108,6 +105,8 @@ struct Developer {
 
 ### 🗄 Database & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-0071E3?style=for-the-badge&logo=apple&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
 
@@ -157,84 +156,6 @@ struct Developer {
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wlmzz&repo=HolidaysTrip&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-
-</div>
-
-### ✈️ HolidaysTrip
-> *Your AI-Powered Travel Companion*
-
-<table>
-<tr>
-<td width="60%">
-
-🌟 **Key Features:**
-- 🤖 AI-powered itinerary generation
-- 📱 eSIM services for travelers
-- ✈️ Real-time flight tracking
-- 🏨 Seamless booking integration
-- 👥 Community trip sharing
-- 🌐 Multi-language support (10+ languages)
-
-**Tech:** `SwiftUI` `AI/ML` `REST APIs` `Localization`
-
-</td>
-<td width="40%">
-
-```
-🌍 Markets:
-├── 🇸🇪 Swedish
-├── 🇳🇴 Norwegian
-├── 🇫🇮 Finnish
-├── 🇵🇹 Portuguese
-├── 🇸🇦 Arabic
-└── 🇮🇳 Hindi
-    ... and more!
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🍝 KINO Bar Bistrot
-> *Complete Restaurant Management System*
-
-<table>
-<tr>
-<td width="50%">
-
-**📱 iOS App (SwiftUI)**
-- Restaurant info & gallery
-- Interactive menu browsing
-- Shopping cart management
-- Secure checkout flow
-- Table reservations
-
-</td>
-<td width="50%">
-
-**⚙️ Backend (Wix Velo)**
-- HTTP Functions API
-- Menu management system
-- Reservation handling
-- eCommerce integration
-- CORS & Authentication
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
 
@@ -246,49 +167,12 @@ struct Developer {
 
 </div>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=wlmzz&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
-
-</div>
-
 <br/>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wlmzz&custom_title=William's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&title_color=667eea&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wlmzz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlmzz/wlmzz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlmzz/wlmzz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wlmzz/wlmzz/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- SPOTIFY / QUOTE SECTION -->
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
@@ -303,12 +187,14 @@ struct Developer {
   <i>I'm always excited to collaborate on innovative iOS projects, discuss mobile development, or just chat about the latest in tech!</i>
 </p>
 
+<br/>
+
 <a href="https://www.linkedin.com/in/wlmzz/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/wlmzz/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
 </a>
 
 <br/><br/>
@@ -342,8 +228,10 @@ struct Developer {
 ### ☕ Support My Work
 
 <a href="https://buy.stripe.com/dRmbJ2a8c2V695M0wo6Zy08">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=wlmzz&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" alt="Buy Me A Coffee"/>
 </a>
+
+<br/>
 
 <p><i>If you like my work, consider buying me a coffee! ❤️</i></p>
 
