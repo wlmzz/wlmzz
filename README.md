@@ -48,9 +48,7 @@
 <!-- ABOUT ME SECTION -->
 ## About Me
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ```swift
 struct Developer {
@@ -71,21 +69,18 @@ struct Developer {
 }
 ```
 
-</td>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ### What I'm Up To
 
 - Building **HolidaysTrip** - AI-powered travel planning app
-- Localizing apps for **global markets** (Swedish, Norwegian, Finnish, Portuguese, Arabic, Hindi...)
-- Exploring **AI integration** in mobile applications
-- Always pushing the boundaries of **SwiftUI**
+- Running **NRC Company** - Software development & digital solutions
+- Managing **NRC Capital** - Tech investments & venture building
+- Developing mobile apps for **iOS & Android** platforms
+- Localizing apps for **global markets** across 10+ languages
+- Integrating **AI/ML** solutions into mobile and web applications
+- Implementing **cybersecurity** best practices in enterprise solutions
+- Scaling products across **Europe** from multiple tech hubs
 
 ---
 
@@ -165,7 +160,6 @@ struct Developer {
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
