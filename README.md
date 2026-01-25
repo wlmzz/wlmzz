@@ -181,22 +181,16 @@ struct Developer {
 
 <div align="center">
 
-### 🏆 HackerNoon Startup of the Year 2025 - Amsterdam Winner
+### 🏆 HackerNoon Startup of the Year - Amsterdam Winner
 
 <a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=127,fit=crop,trim=51.65217391304348;292.695652173913;0;275.4782608695652/AQEZL32RabUMXEnn/nrc-linkedin-1-Awv9NMngXZUNZRlD.png" width="350" alt="HackerNoon Startup of the Year"/>
-</a>
-
-<br/><br/>
-
-<a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1068,fit=crop,trim=0;53.58064516129032;0;53.58064516129032/AQEZL32RabUMXEnn/winner-card-1-dJob3XBP3aU9ggpw.png" width="280" alt="HackerNoon Startup of the Year Winner - Amsterdam"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=127,fit=crop,trim=51.65217391304348;292.695652173913;0;275.4782608695652/AQEZL32RabUMXEnn/nrc-linkedin-1-Awv9NMngXZUNZRlD.png" width="280" alt="HackerNoon Startup of the Year"/>
 </a>
 
 <br/><br/>
 
 [![HackerNoon](https://img.shields.io/badge/🏆_HackerNoon-Startup_of_the_Year_Winner-00FF00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
-[![Amsterdam](https://img.shields.io/badge/📍_Amsterdam-2025_Edition-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
+[![Amsterdam](https://img.shields.io/badge/📍_Amsterdam-Winner-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
 
 </div>
 
@@ -211,7 +205,7 @@ struct Developer {
 <tr>
 <td align="center" width="33%">
 <a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/benzinga-AzGNJZ8M4vcVW9ZZ.png" width="200" alt="Benzinga"/>
+  <img src="https://newlife.rehab/media" width="200" alt="Benzinga"/>
 </a>
 </td>
 <td align="center" width="33%">
@@ -298,47 +292,20 @@ struct Developer {
 <a href="https://www.wlmzz.dev">
   <img src="https://img.shields.io/badge/🚀_wlmzz.dev-Personal_Portfolio-667eea?style=for-the-badge" alt="Portfolio"/>
 </a>
-
 <br/><br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
 <a href="https://www.nrc.company">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=486,fit=crop/AQEZL32RabUMXEnn/logo_official-3-Yg245xx1GEiOq2g8.png" width="180" alt="NRC Company"/>
+  <img src="https://img.shields.io/badge/🏢_NRC.company-Business-000000?style=for-the-badge" alt="NRC Company"/>
 </a>
-
-<br/>
-
-[![NRC Company](https://img.shields.io/badge/🏢_NRC.company-Business-000000?style=for-the-badge)](https://www.nrc.company)
-
-</td>
-<td align="center" width="50%">
-
+&nbsp;&nbsp;
 <a href="https://www.nrc.capital">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1078,fit=crop/m6LZXy9zxvUwOa2W/logo-mp8WKZzDo8hZyZ81.png" width="180" alt="NRC Capital"/>
+  <img src="https://img.shields.io/badge/💰_NRC.capital-Investments-764ba2?style=for-the-badge" alt="NRC Capital"/>
 </a>
-
-<br/>
-
-[![NRC Capital](https://img.shields.io/badge/💰_NRC.capital-Investments-764ba2?style=for-the-badge)](https://www.nrc.capital)
-
-</td>
-</tr>
-</table>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### 💜 Thanks for visiting! Have a great day! 
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-
-<br/><br/>
 
 ### ☕ Support My Work
 
