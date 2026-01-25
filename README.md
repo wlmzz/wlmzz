@@ -23,6 +23,9 @@
   <a href="https://www.wlmzz.dev">
     <img src="https://img.shields.io/badge/Portfolio-wlmzz.dev-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://apps.apple.com/us/developer/nrc-company-o%C3%BC/id1808961041">
+    <img src="https://img.shields.io/badge/App_Store-My_Apps-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="My iOS Apps"/>
+  </a>
 </p>
 
 <!-- WEBSITES -->
@@ -54,7 +57,7 @@ struct Developer {
     let name = "William"
     let role = "Senior iOS Engineer"
     let languages = ["Swift", "Objective-C", "JavaScript"]
-    let locations = ["🇮🇹 Italy", "🇪🇪 Tallinn", "🇬🇧 London"]
+    let locations = ["🇮🇹 Italy", "🇪🇪 Tallinn", "🇬🇧 London", "🇳🇱 Amsterdam"]
     
     var currentFocus: String {
         "Building HolidaysTrip ✈️"
@@ -96,31 +99,144 @@ struct Developer {
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🤖 Artificial Intelligence & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-0071E3?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🛠 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Wix Velo](https://img.shields.io/badge/Wix_Velo-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄 Database & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-0071E3?style=for-the-badge&logo=apple&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- AWARDS & RECOGNITION -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> Awards & Recognition
+
+<div align="center">
+
+### 🏆 HackerNoon Startup of the Year 2025 - Amsterdam Winner
+
+<a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=127,fit=crop,trim=51.65217391304348;292.695652173913;0;275.4782608695652/AQEZL32RabUMXEnn/nrc-linkedin-1-Awv9NMngXZUNZRlD.png" width="350" alt="HackerNoon Startup of the Year"/>
+</a>
+
+<br/><br/>
+
+<a href="https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1068,fit=crop,trim=0;53.58064516129032;0;53.58064516129032/AQEZL32RabUMXEnn/winner-card-1-dJob3XBP3aU9ggpw.png" width="280" alt="HackerNoon Startup of the Year Winner - Amsterdam"/>
+</a>
+
+<br/><br/>
+
+[![HackerNoon](https://img.shields.io/badge/🏆_HackerNoon-Startup_of_the_Year_Winner-00FF00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
+[![Amsterdam](https://img.shields.io/badge/📍_Amsterdam-2025_Edition-FF6B00?style=for-the-badge)](https://hackernoon.com/startups/europe/europe-amsterdam-netherlands?ref=hackernoon.com)
+
+</div>
+
+---
+
+<!-- PRESS COVERAGE -->
+## 📰 Featured In
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/benzinga-AzGNJZ8M4vcVW9ZZ.png" width="200" alt="Benzinga"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/digital-jurnal-AE0r86M77osgMo2G.png" width="200" alt="Digital Journal"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" width="200" alt="Business Insurance"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+*NRC Company & BookEasy featured in major tech and business publications* 🚀
 
 </div>
 
 ---
 
 <!-- CERTIFICATIONS -->
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> Certifications & Achievements
+## 🎓 Certifications
 
 <div align="center">
 
@@ -156,28 +272,6 @@ struct Developer {
 
 ---
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlmzz&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" alt="William's GitHub Stats" /> 
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlmzz&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wlmzz&custom_title=William's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&title_color=667eea&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 <!-- CONNECT SECTION -->
 ## 🤝 Let's Connect!
 
@@ -204,14 +298,35 @@ struct Developer {
 <a href="https://www.wlmzz.dev">
   <img src="https://img.shields.io/badge/🚀_wlmzz.dev-Personal_Portfolio-667eea?style=for-the-badge" alt="Portfolio"/>
 </a>
+
 <br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
 <a href="https://www.nrc.company">
-  <img src="https://img.shields.io/badge/🏢_NRC.company-Business-000000?style=for-the-badge" alt="NRC Company"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=486,fit=crop/AQEZL32RabUMXEnn/logo_official-3-Yg245xx1GEiOq2g8.png" width="180" alt="NRC Company"/>
 </a>
-&nbsp;&nbsp;
+
+<br/>
+
+[![NRC Company](https://img.shields.io/badge/🏢_NRC.company-Business-000000?style=for-the-badge)](https://www.nrc.company)
+
+</td>
+<td align="center" width="50%">
+
 <a href="https://www.nrc.capital">
-  <img src="https://img.shields.io/badge/💰_NRC.capital-Investments-764ba2?style=for-the-badge" alt="NRC Capital"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1078,fit=crop/m6LZXy9zxvUwOa2W/logo-mp8WKZzDo8hZyZ81.png" width="180" alt="NRC Capital"/>
 </a>
+
+<br/>
+
+[![NRC Capital](https://img.shields.io/badge/💰_NRC.capital-Investments-764ba2?style=for-the-badge)](https://www.nrc.capital)
+
+</td>
+</tr>
+</table>
 
 </div>
 
