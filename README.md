@@ -45,7 +45,7 @@
 <!-- ABOUT ME SECTION -->
 ## About Me
 
-<div align="right">
+<div align="left">
 
 ```swift
 struct Developer {
