@@ -20,9 +20,6 @@
   <a href="https://www.instagram.com/wlmzz/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.wlmzz.dev">
-    <img src="https://img.shields.io/badge/Portfolio-wlmzz.dev-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://apps.apple.com/us/developer/nrc-company-o%C3%BC/id1808961041">
     <img src="https://img.shields.io/badge/App_Store-My_Apps-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="My iOS Apps"/>
   </a>
@@ -48,7 +45,7 @@
 <!-- ABOUT ME SECTION -->
 ## About Me
 
-<div align="center">
+<div align="right">
 
 ```swift
 struct Developer {
