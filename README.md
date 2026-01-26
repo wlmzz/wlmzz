@@ -200,11 +200,13 @@ struct Developer {
 
 ## Featured In
 
-<p align="center">
-<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="85" alt="Benzinga"/></a>
-<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="85" alt="Digital Journal"/></a>
-<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="85" alt="Business Insurance"/></a>
-</p>
+<table align="center" border="0" cellspacing="40" cellpadding="0">
+<tr>
+<td><a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="85" alt="Benzinga"/></a></td>
+<td><a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="85" alt="Digital Journal"/></a></td>
+<td><a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="85" alt="Business Insurance"/></a></td>
+</tr>
+</table>
 
 ---
 
