@@ -1,22 +1,33 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=William&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%A8%81%E5%BB%89+%F0%9F%91%8B;Hola%2C+soy+William+%F0%9F%91%8B;Salut%2C+je+suis+William+%F0%9F%91%8B;Hallo%2C+ich+bin+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=Hi%2C+I'm+William+%F0%9F%87%BA%F0%9F%87%B8;Ciao%2C+sono+William+%F0%9F%87%AE%F0%9F%87%B9;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%87%B7%F0%9F%87%BA;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%87%A8%F0%9F%87%B3;Hola%2C+soy+William+%F0%9F%87%AA%F0%9F%87%B8;Salut%2C+je+suis+William+%F0%9F%87%AB%F0%9F%87%B7;Hallo%2C+ich+bin+William+%F0%9F%87%A9%F0%9F%87%AA;Tere%2C+mina+olen+William+%F0%9F%87%AA%F0%9F%87%AA;Hallo%2C+ik+ben+William+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=wlmzz&style=for-the-badge&color=667eea&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/wlmzz?tab=followers">
+  <img src="https://img.shields.io/github/followers/wlmzz?style=for-the-badge&color=764ba2&label=Followers" alt="Followers"/>
+</a>
+
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/wlmzz/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/wlmzz/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+&nbsp;
 <a href="https://apps.apple.com/us/developer/nrc-company-o%C3%BC/id1808961041">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="My iOS Apps"/>
 </a>
@@ -25,8 +36,17 @@
 
 <!-- BUY ME A COFFEE -->
 <a href="https://buy.stripe.com/dRmbJ2a8c2V695M0wo6Zy08">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -37,7 +57,7 @@
 ```swift
 struct Developer {
     let name = "William"
-    let role = "Software Engineer & Entrepreneur"
+    let role = "Software Engineer"
     let expertise = ["Mobile", "AI/ML", "Cybersecurity", "Full Stack"]
     let languages = ["Swift", "Kotlin", "Python", "TypeScript", "JavaScript", "Java"]
     let locations = ["Italy", "Tallinn", "London", "Amsterdam"]
@@ -51,17 +71,6 @@ struct Developer {
     }
 }
 ```
-
-### What I'm Up To
-
-- 🚀 Building **HolidaysTrip** - AI-powered travel planning app
-- 💼 Running **NRC Company** - Software development & digital solutions
-- 📈 Managing **NRC Capital** - Tech investments & venture building
-- 📱 Developing mobile apps for **iOS & Android** platforms
-- 🌍 Localizing apps for **global markets** across 10+ languages
-- 🤖 Integrating **AI/ML** solutions into mobile and web applications
-- 🔐 Implementing **cybersecurity** best practices in enterprise solutions
-- 🇪🇺 Scaling products across **Europe** from multiple tech hubs
 
 ---
 
@@ -219,21 +228,18 @@ struct Developer {
 <div align="center">
 
 <a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" width="45%" alt="Benzinga"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="40" alt="Benzinga"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
-  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" width="45%" alt="Digital Journal"/>
+  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="40" alt="Digital Journal"/>
 </a>
-
-<br/><br/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" width="60%" alt="Business Insurance"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="40" alt="Business Insurance"/>
 </a>
 
 <br/><br/>
-
-*NRC Company & BookEasy featured in major tech and business publications*
 
 </div>
 
