@@ -155,7 +155,6 @@ struct Developer {
 
 ![IBM](https://img.shields.io/badge/IBM-Certified-054ADA?style=flat-square&logo=ibm&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-Developer-000000?style=flat-square&logo=apple&logoColor=white)
 
 *Continuously learning and evolving in the ever-changing tech landscape*
 
@@ -171,12 +170,10 @@ struct Developer {
 <br/><br/>
 
 <!-- WEBSITES -->
-<a href="https://www.nrc.company">
-  <img src="https://img.shields.io/badge/NRC.company-000000?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Company"/>
-</a>
-<a href="https://www.nrc.capital">
-  <img src="https://img.shields.io/badge/NRC.capital-764ba2?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Capital"/>
-</a>
+<p>
+<a href="https://www.nrc.company"><img src="https://img.shields.io/badge/NRC.company-000000?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Company"/></a>
+<a href="https://www.nrc.capital"><img src="https://img.shields.io/badge/NRC.capital-764ba2?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Capital"/></a>
+</p>
 
 </div>
 
