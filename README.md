@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=William&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=Hi%2C+I'm+William+%F0%9F%87%BA%F0%9F%87%B8;Ciao%2C+sono+William+%F0%9F%87%AE%F0%9F%87%B9;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%87%B7%F0%9F%87%BA;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%87%A8%F0%9F%87%B3;Hola%2C+soy+William+%F0%9F%87%AA%F0%9F%87%B8;Salut%2C+je+suis+William+%F0%9F%87%AB%F0%9F%87%B7;Hallo%2C+ich+bin+William+%F0%9F%87%A9%F0%9F%87%AA;Tere%2C+mina+olen+William+%F0%9F%87%AA%F0%9F%87%AA;Hallo%2C+ik+ben+William+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%91%8B;Hola%2C+soy+William+%F0%9F%91%8B;Salut%2C+je+suis+William+%F0%9F%91%8B;Hallo%2C+ich+bin+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,13 +44,6 @@
 </a>
 
 <br/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
 </div>
 
@@ -228,15 +225,15 @@ struct Developer {
 <div align="center">
 
 <a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="40" alt="Benzinga"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="55" alt="Benzinga"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
-  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="40" alt="Digital Journal"/>
+  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="55" alt="Digital Journal"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="40" alt="Business Insurance"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="55" alt="Business Insurance"/>
 </a>
 
 <br/><br/>
