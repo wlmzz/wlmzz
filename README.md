@@ -12,15 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%91%8B;Hola%2C+soy+William+%F0%9F%91%8B;Salut%2C+je+suis+William+%F0%9F%91%8B;Hallo%2C+ich+bin+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=wlmzz&style=for-the-badge&color=667eea&label=Profile+Views" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/wlmzz?tab=followers">
-  <img src="https://img.shields.io/github/followers/wlmzz?style=for-the-badge&color=764ba2&label=Followers" alt="Followers"/>
-</a>
-
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
@@ -225,15 +216,15 @@ struct Developer {
 <div align="center">
 
 <a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="55" alt="Benzinga"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="70" alt="Benzinga"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
-  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="55" alt="Digital Journal"/>
+  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="70" alt="Digital Journal"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="55" alt="Business Insurance"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="70" alt="Business Insurance"/>
 </a>
 
 <br/><br/>
