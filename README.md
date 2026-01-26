@@ -9,30 +9,22 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=550&height=60&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%91%8B;Hola%2C+soy+William+%F0%9F%91%8B;Salut%2C+je+suis+William+%F0%9F%91%8B;Hallo%2C+ich+bin+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=600&height=70&lines=Hi%2C+I'm+William+%F0%9F%91%8B;Ciao%2C+sono+William+%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+William+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFWilliam+%F0%9F%91%8B;Hola%2C+soy+William+%F0%9F%91%8B;Salut%2C+je+suis+William+%F0%9F%91%8B;Hallo%2C+ich+bin+William+%F0%9F%91%8B;Tere%2C+mina+olen+William+%F0%9F%91%8B;Hallo%2C+ik+ben+William+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/wlmzz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/wlmzz/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://apps.apple.com/us/developer/nrc-company-o%C3%BC/id1808961041">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="My iOS Apps"/>
-</a>
-
-<br/><br/>
+<p>
+<a href="https://www.linkedin.com/in/wlmzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/wlmzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://apps.apple.com/us/developer/nrc-company-o%C3%BC/id1808961041"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="My iOS Apps"/></a>
+</p>
 
 <!-- BUY ME A COFFEE -->
 <a href="https://buy.stripe.com/dRmbJ2a8c2V695M0wo6Zy08">
   <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
-
-<br/>
 
 </div>
 
@@ -211,21 +203,11 @@ struct Developer {
 
 ## Featured In
 
-<div align="center">
-
-<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free">
-  <img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="85" alt="Benzinga"/>
-</a>
-<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html">
-  <img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="85" alt="Digital Journal"/>
-</a>
-<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="85" alt="Business Insurance"/>
-</a>
-
-<br/><br/>
-
-</div>
+<p align="center">
+<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://images.squarespace-cdn.com/content/v1/644bf84be3a98e6684a82561/cb2822f7-f43b-4bc5-b257-62ce6ab32329/logo-benzinga.png" height="85" alt="Benzinga"/></a>
+<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://tiskon.com/wp-content/uploads/2025/12/2-19-1.webp" height="85" alt="Digital Journal"/></a>
+<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="85" alt="Business Insurance"/></a>
+</p>
 
 ---
 
