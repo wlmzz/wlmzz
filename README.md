@@ -200,17 +200,17 @@ struct Developer {
 
 ## Featured In
 
-<table align="center" border="0" cellspacing="40" cellpadding="0">
-<tr>
-<td><a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://insideredgelive.com/wp-content/uploads/2025/10/benzinga-logo-1.webp" height="85" alt="Benzinga"/></a></td>
-<td><a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://www.fiveblocks.com/wp-content/uploads/2018/10/digital-journal-logo.png" height="85" alt="Digital Journal"/></a></td>
-<td><a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="85" alt="Business Insurance"/></a></td>
-</tr>
-</table>
+<div align="center">
+<p>
+<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://insideredgelive.com/wp-content/uploads/2025/10/benzinga-logo-1.webp" height="70" alt="Benzinga"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://www.fiveblocks.com/wp-content/uploads/2018/10/digital-journal-logo.png" height="70" alt="Digital Journal"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="70" alt="Business Insurance"/></a>
+</p>
+</div>
 
 ---
 
-## Lavoro
+## I also work at
 
 <div align="center">
 
@@ -218,24 +218,26 @@ struct Developer {
 
 <br/><br/>
 
-<a href="https://nimasushi.com"><img src="https://static.wixstatic.com/media/cb2700_d3930a9ff86e4c51a35cfe489c5218a7~mv2.png" height="90" alt="Nima Sushi"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pokeria.com"><img src="https://static.wixstatic.com/media/cb2700_af4ee62e64ab42da98531ec31eed36e2~mv2.png" height="90" alt="Pokeria"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://thisisnotasushibar.com"><img src="https://static.wixstatic.com/media/cb2700_4510c7ef0da9442aaa228deae60f2649~mv2.png" height="90" alt="This Is Not A Sushi Bar"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pokefactory.it"><img src="https://static.wixstatic.com/media/cb2700_2e6a96e63ce64617917b69a1bc5cf49e~mv2.png" height="90" alt="Poke Factory"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://mauihawaiianrestaurant.com"><img src="https://static.wixstatic.com/media/cb2700_255af1ea9fff48ebaa2c4a2574fa7e82~mv2.png" height="90" alt="Maui Hawaiian Restaurant"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pacifik-poke.com"><img src="https://static.wixstatic.com/media/cb2700_4876a9c36d774b45ad02259e486f982f~mv2.png" height="90" alt="Pacifik Poke"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://amo-poke.com"><img src="https://static.wixstatic.com/media/cb2700_9207b052255c4c118fd58f879b36f310~mv2.png" height="90" alt="Amo Poke"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://machapoke.com"><img src="https://static.wixstatic.com/media/cb2700_fcd0fbefb8f24bcaa8a83984a1ad9146~mv2.png" height="90" alt="Macha Poke"/></a>
+<p>
+<a href="https://nimasushi.com"><img src="https://static.wixstatic.com/media/cb2700_d3930a9ff86e4c51a35cfe489c5218a7~mv2.png" height="80" alt="Nima Sushi"/></a>&nbsp;&nbsp;
+<a href="https://pokeria.com"><img src="https://static.wixstatic.com/media/cb2700_af4ee62e64ab42da98531ec31eed36e2~mv2.png" height="80" alt="Pokeria"/></a>&nbsp;&nbsp;
+<a href="https://thisisnotasushibar.com"><img src="https://static.wixstatic.com/media/cb2700_4510c7ef0da9442aaa228deae60f2649~mv2.png" height="80" alt="This Is Not A Sushi Bar"/></a>&nbsp;&nbsp;
+<a href="https://pokefactory.it"><img src="https://static.wixstatic.com/media/cb2700_2e6a96e63ce64617917b69a1bc5cf49e~mv2.png" height="80" alt="Poke Factory"/></a>&nbsp;&nbsp;
+<a href="https://mauihawaiianrestaurant.com"><img src="https://static.wixstatic.com/media/cb2700_255af1ea9fff48ebaa2c4a2574fa7e82~mv2.png" height="80" alt="Maui Hawaiian Restaurant"/></a>&nbsp;&nbsp;
+<a href="https://pacifik-poke.com"><img src="https://static.wixstatic.com/media/cb2700_4876a9c36d774b45ad02259e486f982f~mv2.png" height="80" alt="Pacifik Poke"/></a>&nbsp;&nbsp;
+<a href="https://amo-poke.com"><img src="https://static.wixstatic.com/media/cb2700_9207b052255c4c118fd58f879b36f310~mv2.png" height="80" alt="Amo Poke"/></a>&nbsp;&nbsp;
+<a href="https://machapoke.com"><img src="https://static.wixstatic.com/media/cb2700_fcd0fbefb8f24bcaa8a83984a1ad9146~mv2.png" height="80" alt="Macha Poke"/></a>
+</p>
 
 </div>
 
 ---
 
-## Ultimi Progetti
+## Latest Projects
 
 <div align="center">
 
-<a href="#"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Latest Project"/></a>
+<a href="#"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="150" alt="Bite"/></a>
 
 </div>
 
