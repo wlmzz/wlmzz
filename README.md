@@ -202,9 +202,9 @@ struct Developer {
 
 <div align="center">
 <p>
-<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://insideredgelive.com/wp-content/uploads/2025/10/benzinga-logo-1.webp" height="70" alt="Benzinga"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://www.fiveblocks.com/wp-content/uploads/2018/10/digital-journal-logo.png" height="70" alt="Digital Journal"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="70" alt="Business Insurance"/></a>
+<a href="https://www.benzinga.com/pressreleases/25/06/ab45779236/nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-free"><img src="https://insideredgelive.com/wp-content/uploads/2025/10/benzinga-logo-1.webp" height="50" alt="Benzinga"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.digitaljournal.com/pr/news/revupmarketer/nrc-company-launches-bookeasy-modular-1230656743.html"><img src="https://www.fiveblocks.com/wp-content/uploads/2018/10/digital-journal-logo.png" height="100" alt="Digital Journal"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://index.businessinsurance.com/businessinsurance/article/abnewswire-2025-6-4-nrc-company-launches-bookeasy-the-modular-management-platform-tailored-for-artisans-smes-and-freelancers"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=270,fit=crop/AQEZL32RabUMXEnn/business-ALpP19O25yIG13jr.png" height="45" alt="Business Insurance"/></a>
 </p>
 </div>
 
