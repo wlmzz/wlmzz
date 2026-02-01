@@ -38,7 +38,7 @@ struct Developer {
     let role = "Software Engineer"
     let expertise = ["Mobile", "AI/ML", "Cybersecurity", "Full Stack"]
     let languages = ["Swift", "Kotlin", "Python", "TypeScript", "JavaScript", "Java"]
-    let locations = ["Italy", "Tallinn", "London", "Amsterdam"]
+    let locations = ["Milan", "Tallinn", "London", "Amsterdam"]
     
     var currentFocus: String {
         "Building HolidaysTrip"
