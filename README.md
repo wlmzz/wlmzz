@@ -221,10 +221,10 @@ struct Developer {
 <br/><br/>
 
 <p>
-<a href="https://nimasushi.com"><img src="https://static.wixstatic.com/media/cb2700_d3930a9ff86e4c51a35cfe489c5218a7~mv2.png" height="80" alt="Nima Sushi"/></a>&nbsp;&nbsp;
-<a href="https://pokeria.com"><img src="https://static.wixstatic.com/media/cb2700_af4ee62e64ab42da98531ec31eed36e2~mv2.png" height="80" alt="Pokeria"/></a>&nbsp;&nbsp;
+<a href="https://nimasushi.com"><img src="https://static.wixstatic.com/media/cb2700_d3930a9ff86e4c51a35cfe489c5218a7~mv2.png" height="90" alt="Nima Sushi"/></a>&nbsp;&nbsp;
+<a href="https://pokeria.com"><img src="https://static.wixstatic.com/media/cb2700_af4ee62e64ab42da98531ec31eed36e2~mv2.png" height="90" alt="Pokeria"/></a>&nbsp;&nbsp;
 <a href="https://thisisnotasushibar.com"><img src="https://static.wixstatic.com/media/cb2700_4510c7ef0da9442aaa228deae60f2649~mv2.png" height="80" alt="This Is Not A Sushi Bar"/></a>&nbsp;&nbsp;
-<a href="https://pokefactory.it"><img src="https://static.wixstatic.com/media/cb2700_2e6a96e63ce64617917b69a1bc5cf49e~mv2.png" height="80" alt="Poke Factory"/></a>&nbsp;&nbsp;
+<a href="https://pokefactory.it"><img src="https://static.wixstatic.com/media/cb2700_2e6a96e63ce64617917b69a1bc5cf49e~mv2.png" height="70" alt="Poke Factory"/></a>&nbsp;&nbsp;
 <a href="https://mauihawaiianrestaurant.com"><img src="https://static.wixstatic.com/media/cb2700_255af1ea9fff48ebaa2c4a2574fa7e82~mv2.png" height="80" alt="Maui Hawaiian Restaurant"/></a>&nbsp;&nbsp;
 <a href="https://pacifik-poke.com"><img src="https://static.wixstatic.com/media/cb2700_4876a9c36d774b45ad02259e486f982f~mv2.png" height="80" alt="Pacifik Poke"/></a>&nbsp;&nbsp;
 <a href="https://amo-poke.com"><img src="https://static.wixstatic.com/media/cb2700_9207b052255c4c118fd58f879b36f310~mv2.png" height="80" alt="Amo Poke"/></a>&nbsp;&nbsp;
@@ -239,7 +239,9 @@ struct Developer {
 
 <div align="center">
 
-<a href="#"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="150" alt="Bite"/></a>
+<a href="https://www.biteloyal.com"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://edilplanner-app.web.app/"><img src="https://static.wixstatic.com/media/cb2700_6f42321c13444d519a6c013a449845b2~mv2.png" height="100" alt="EdilPlanner"/></a>&nbsp;&nbsp;
+<a href="https://www.kawayota.com"><img src="https://static.wixstatic.com/media/cb2700_a97bf1e1b3834218a1df76d2050f6dc2~mv2.png" height="100" alt="Kawayota"/></a>
 
 </div>
 
