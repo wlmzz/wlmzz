@@ -242,6 +242,8 @@ struct Developer {
 <a href="https://www.biteloyal.com"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://edilplanner-app.web.app/"><img src="https://static.wixstatic.com/media/cb2700_6f42321c13444d519a6c013a449845b2~mv2.png" height="100" alt="EdilPlanner"/></a>&nbsp;&nbsp;
 <a href="https://www.kawayota.com"><img src="https://static.wixstatic.com/media/cb2700_a97bf1e1b3834218a1df76d2050f6dc2~mv2.png" height="100" alt="Kawayota"/></a>
+<a href="https://plannermode.it/"><img src="https://static.wixstatic.com/media/cb2700_16150bcdac944d61a978174ffdecda46~mv2.png" height="100" alt="PlannerMode"/></a>&nbsp;&nbsp;
+<a href="https://orionotic.com/"><img src="https://static.wixstatic.com/media/cb2700_f498f3355d484166b6a3625d31f4da50~mv2.png" height="100" alt="Orion"/></a>&nbsp;&nbsp;
 
 </div>
 
