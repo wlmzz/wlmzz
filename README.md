@@ -149,7 +149,7 @@ struct Developer {
 
 ### IBM Certifications
 
-<img src="https://media.licdn.com/dms/image/v2/D5622AQE3skeAoVPhjg/feedshare-shrink_800/B56Zpx9CIgG4Ag-/0/1762848431690?e=1770854400&v=beta&t=nZ5CNzvxMCwxLsqvdyjsrVsoQ9chgFrDTHhCXkMpbtg" width="90%" alt="IBM Certifications"/>
+<img src="https://static.wixstatic.com/media/cb2700_b1fef3d1d4a34cb9afeb29cfd41b33dc~mv2.jpg" width="90%" alt="IBM Certifications"/>
 
 <br/><br/>
 
@@ -165,7 +165,7 @@ struct Developer {
 <div align="center">
 
 <!-- CUSTOM COVER IMAGE -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF6wG9LejkQgw/profile-displaybackgroundimage-shrink_350_1400/B56Zp.pnpaHYAc-/0/1763061435078?e=1770854400&v=beta&t=To4wz1f45QIZgfEbyTSXma2wRITxdXuPYkNGVlfcfwI" width="100%" alt="William's Banner"/>
+<img src="https://static.wixstatic.com/media/cb2700_3896ee53f5a64f63803dda9faa86637a~mv2.jpg" width="100%" alt="William's Banner"/>
 
 <br/><br/>
 
@@ -239,11 +239,11 @@ struct Developer {
 
 <div align="center">
 
-<a href="https://www.biteloyal.com"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wlmzz.github.io/ARGOS-SECURITY/"><img src="https://static.wixstatic.com/media/cb2700_98b264717e9e4acb83c9e7d82a167e8d~mv2.png" height="100" alt="ARGOS"/></a>&nbsp;&nbsp;
 <a href="https://edilplanner-app.web.app/"><img src="https://static.wixstatic.com/media/cb2700_6f42321c13444d519a6c013a449845b2~mv2.png" height="100" alt="EdilPlanner"/></a>&nbsp;&nbsp;
 <a href="https://www.kawayota.com"><img src="https://static.wixstatic.com/media/cb2700_a97bf1e1b3834218a1df76d2050f6dc2~mv2.png" height="100" alt="Kawayota"/></a>
-<a href="https://plannermode.it/"><img src="https://static.wixstatic.com/media/cb2700_401b56e9db5940b0bc53520b0f9c7133~mv2.png" height="100" alt="PlannerMode"/></a>&nbsp;&nbsp;
 <a href="https://orionotic.com/"><img src="https://static.wixstatic.com/media/cb2700_f498f3355d484166b6a3625d31f4da50~mv2.png" height="100" alt="Orion"/></a>&nbsp;&nbsp;
+<a href="https://www.biteloyal.com"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
