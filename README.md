@@ -212,6 +212,20 @@ struct Developer {
 
 ---
 
+## Latest Events
+
+<div align="center">
+
+<img src="https://static.wixstatic.com/media/cb2700_039bb55c329041faa2ce58b23258d3b6~mv2.jpg" width="90%" alt="Latest Event"/>
+
+<br/><br/>
+
+<img src="https://static.wixstatic.com/media/cb2700_6aae0128542f49c5beb1fc8e66eef500~mv2.jpg" width="50%" alt="Latest Event"/>
+
+</div>
+
+---
+
 ## I also work at
 
 <div align="center">
