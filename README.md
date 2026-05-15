@@ -257,7 +257,7 @@ struct Developer {
 <a href="https://edilplanner-app.web.app/"><img src="https://static.wixstatic.com/media/cb2700_6f42321c13444d519a6c013a449845b2~mv2.png" height="100" alt="EdilPlanner"/></a>&nbsp;&nbsp;
 <a href="https://amministrapro.web.app"><img src="https://amministrapro.web.app/logo-aperto.png" height="100" alt="AmministraPRO"/></a>
 <a href="https://orionotic.com/"><img src="https://static.wixstatic.com/media/cb2700_f498f3355d484166b6a3625d31f4da50~mv2.png" height="100" alt="Orion"/></a>&nbsp;&nbsp;
-<a href="https://www.biteloyal.com"><img src="https://static.wixstatic.com/media/192053_bbe96726378245a498adcd15d74eff3a~mv2.png" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.biteloyal.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/44/78/2444788b-52c3-ea2c-282d-3fb48b3efebb/Placeholder.mill/400x400bb-75.webp" height="100" alt="Bite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
