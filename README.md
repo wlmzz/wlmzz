@@ -172,7 +172,7 @@ struct Developer {
 <!-- WEBSITES -->
 <p>
 <a href="https://nrc.company"><img src="https://img.shields.io/badge/NRC.company-000000?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Company"/></a>
-<a href="https://nrc.capital"><img src="https://img.shields.io/badge/NRC.capital-764ba2?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Capital"/></a>
+<a href="https://nrc.company/capital"><img src="https://img.shields.io/badge/NRC.capital-764ba2?style=for-the-badge&logo=safari&logoColor=white" alt="NRC Capital"/></a>
 </p>
 
 </div>
